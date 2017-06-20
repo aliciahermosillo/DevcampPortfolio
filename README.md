@@ -1,4 +1,4 @@
-# DevcampPortfolio
+## Git Demo
 
 > This is Ruby on Rails 5 application thats allow users to create their own portfolios.
 
