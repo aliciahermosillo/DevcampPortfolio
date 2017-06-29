@@ -44,11 +44,11 @@ end
 
     # Destroy/delete the record
     @portfolio_item.destroy
-
+    
     # Redirect
     respond_to do |format|
       format.html { redirect_to portfolios_url, notice: 'Record was removed.' }
-    end
+      
+      end
   end
-  
 end
