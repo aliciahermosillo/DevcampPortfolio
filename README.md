@@ -1,4 +1,8 @@
+
 ## Git Demo
+
+# DevcampPortfolio
+
 
 > This is Ruby on Rails 5 application thats allow users to create their own portfolios.
 
@@ -15,4 +19,4 @@
 def my_great_method
  puts "here it is"
  end
- ```
+
